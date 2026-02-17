@@ -1,0 +1,15 @@
+{
+  "companies": [
+    {
+      "company_id": "COMP001",
+      "company_name": "Metamorph Solutions Pvt Ltd",
+      "location": "Pune, Maharashtra",
+      "contact_person": "Aniket Jagtap",
+      "email": "xyz@techonsy.com",
+      "phone": "9881237268",
+      "company_type": "Private",
+      "company_size": "Mid Scale",
+      "address": "Barve complex, JM Road, Pune - 411005"
+    }
+  ]
+}

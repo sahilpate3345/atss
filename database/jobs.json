@@ -1,0 +1,34 @@
+{
+  "jobs": [
+    {
+      "job_id": "JOB001",
+      "title": "Python Developer",
+      "company": "Metamorph Solutions",
+      "location": "Pune",
+      "salary_max": 800000,
+      "experience_required": 2,
+      "required_skills": [
+        "Python",
+        "FastAPI",
+        "SQL"
+      ],
+      "qualification": "B.Tech",
+      "jd_text": "We are looking for a Python Developer with experience in FastAPI and SQL. Good problem solving skills required."
+    },
+    {
+      "job_id": "JOB012",
+      "title": "Full Stack Developer",
+      "company": "Tech Corp",
+      "location": "Pune",
+      "salary_max": 1200000,
+      "experience_required": 2,
+      "required_skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "qualification": "B.Tech",
+      "jd_text": "Looking for a MERN stack developer with experience in React and Node.js."
+    }
+  ]
+}

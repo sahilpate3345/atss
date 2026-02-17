@@ -1,0 +1,125 @@
+
+--- NEW REQUEST ---
+Role: Chaos Engineer
+Raw LLM Response: 
+⚠️ Triggering FALLBACK. Cleaned questions count: 0
+
+--- NEW REQUEST ---
+Role: Chaos Engineer
+Raw LLM Response: {'wrong': 'format'}
+⚠️ Triggering FALLBACK. Cleaned questions count: 1
+
+--- NEW REQUEST ---
+Role: Chaos Engineer
+Raw LLM Response: Error: API Limit Exceeded
+⚠️ Triggering FALLBACK. Cleaned questions count: 1
+
+--- NEW REQUEST ---
+Role: Senior Java Developer
+Raw LLM Response: ["What are the key benefits of using Spring Boot over traditional Spring Framework, and how do you leverage these benefits in your projects?",
+    "Explain the concept of Inversion of Control (IoC) in Spring and provide an example of how you use it in your code.",
+    "Describe the differences between a monolithic architecture and a microservices architecture, and explain why you would choose one over the other.",
+    "How do you handle database transactions in a Spring Boot application using Hibernate, and what are the best practices for managing transactions?",
+    "Design a simple microservices architecture for a e-commerce application, including the services, APIs, and data storage.",
+    "Explain the concept of service discovery in microservices architecture and how you would implement it using Netflix's Eureka or Apache ZooKeeper.",
+    "What are the key considerations when designing a RESTful API, and how do you ensure that your API is secure and scalable?",
+    "How do you handle caching in a Spring Boot application, and what are the benefits of using caching in a microservices architecture?",
+    "Explain the concept of circuit breakers in microservices architecture and how you would implement it using Hystrix or Resilience4j.",
+    "Design a simple Spring Boot application that uses Hibernate to interact with a database, and explain the configuration and dependencies required."]
+Parsed JSON Successfully: ['What are the key benefits of using Spring Boot over traditional Spring Framework, and how do you leverage these benefits in your projects?', 'Explain the concept of Inversion of Control (IoC) in Spring and provide an example of how you use it in your code.']...
+
+--- NEW REQUEST ---
+Role: Python Backend Developer
+Raw LLM Response: [
+    "What is your understanding of the basics of Python programming, and how do you approach learning new concepts?",
+    "Can you explain the difference between static and dynamic typing in programming languages, and how Python fits into this classification?",
+    "How do you optimize the performance of SQL queries, and what are some common pitfalls to avoid?",
+    "What do you know about FastAPI, and how does it compare to other Python web frameworks like Flask?",
+    "Can you describe a situation where you had to troubleshoot an issue with a Python application, and how you went about resolving it?",
+    "How do you approach containerization using Docker, and what benefits does it provide for application development and deployment?",
+    "Can you walk me through the process of designing a simple database schema using SQL, including the creation of tables and relationships between them?",
+    "What is your understanding of the concept of APIs, and how would you approach integrating a Python backend service with a frontend application?",
+    "How do you handle errors and exceptions in Python, and what are some best practices for implementing robust error handling in your code?",
+    "Can you explain the concept of dependency management in Python, and how you would use tools like pip to manage dependencies in a project?"
+]
+Parsed JSON Successfully: ['What is your understanding of the basics of Python programming, and how do you approach learning new concepts?', 'Can you explain the difference between static and dynamic typing in programming languages, and how Python fits into this classification?']...
+
+--- NEW REQUEST ---
+Role: Python Backend Developer
+Raw LLM Response: [
+    "What is your understanding of the basics of Python programming, and how do you approach learning new concepts?",
+    "Can you explain the difference between static and dynamic typing in programming languages, and how Python fits into this?",
+    "How do you optimize the performance of a SQL query, and what are some common pitfalls to avoid?",
+    "What is your experience with APIs, and how would you design a simple RESTful API using Python?",
+    "Can you describe a situation where you had to troubleshoot an issue with your code, and how you went about resolving it?",
+    "What do you know about containerization, and how does Docker fit into the development process?",
+    "How do you approach collaborative development, and what tools or strategies do you use to work with others on a project?",
+    "Can you walk me through your process for debugging a Python script, and what tools or techniques you use?",
+    "What is your understanding of the concept of scalability in software development, and how would you approach building a scalable backend service?",
+    "How do you stay up-to-date with new developments and advancements in the field of Python and backend development, and what resources do you rely on for learning?"
+]
+Parsed JSON Successfully: ['What is your understanding of the basics of Python programming, and how do you approach learning new concepts?', 'Can you explain the difference between static and dynamic typing in programming languages, and how Python fits into this?']...
+
+--- NEW REQUEST ---
+Role: Python Backend Developer
+Raw LLM Response: [
+    "Explain the difference between synchronous and asynchronous programming in Python and provide an example of how you would use asynchronous programming in a FastAPI application.",
+    "Write a Python function to connect to a PostgreSQL database and execute a SQL query to retrieve data from a table.",
+    "How would you optimize a slow SQL query, and what are some common techniques for improving query performance?",
+    "Describe the concept of containerization and how Docker can be used to deploy a Python application.",
+    "What is the purpose of a CI/CD pipeline, and how would you implement one using Docker and a Python application?",
+    "How do you handle errors and exceptions in a FastAPI application, and what are some best practices for logging and debugging?",
+    "Write a simple FastAPI endpoint to create, read, update, and delete (CRUD) a resource, such as a user or a product.",
+    "Explain the concept of dependency injection in Python and how it can be used in a FastAPI application to manage dependencies between components.",
+    "How would you implement authentication and authorization in a FastAPI application using JSON Web Tokens (JWT) or another authentication mechanism?",
+    "Describe how you would design a database schema for a simple e-commerce application using SQL, including tables for products, orders, and customers."
+]
+Parsed JSON Successfully: ['Explain the difference between synchronous and asynchronous programming in Python and provide an example of how you would use asynchronous programming in a FastAPI application.', 'Write a Python function to connect to a PostgreSQL database and execute a SQL query to retrieve data from a table.']...
+
+--- NEW REQUEST ---
+Role: Python Backend Developer
+Raw LLM Response: [
+    "Explain the difference between synchronous and asynchronous programming in Python and how you would implement asynchronous programming in a FastAPI application.",
+    "Write a Python function to connect to a SQL database and perform a query to retrieve all records from a given table.",
+    "How would you optimize a slow SQL query for better performance, and what are some common pitfalls to avoid?",
+    "Describe the concept of containerization and how Docker can be used to deploy a Python application.",
+    "What is your experience with FastAPI, and how does it compare to other Python web frameworks such as Flask?",
+    "How do you handle errors and exceptions in a Python application, and what are some best practices for logging and debugging?",
+    "Write an example of a Dockerfile for a Python application, and explain the purpose of each instruction.",
+    "Explain the concept of a CI/CD pipeline and how it can be used to automate the deployment of a Python application.",
+    "How would you design a RESTful API using FastAPI to interact with a frontend application, and what are some considerations for API security and authentication?",
+    "Describe a scenario where you would use a database transaction in a Python application, and how you would implement it using SQL and Python."
+]
+Parsed JSON Successfully: ['Explain the difference between synchronous and asynchronous programming in Python and how you would implement asynchronous programming in a FastAPI application.', 'Write a Python function to connect to a SQL database and perform a query to retrieve all records from a given table.']...
+
+--- NEW REQUEST ---
+Role: Python Backend Developer
+Raw LLM Response: [
+    "Explain the difference between synchronous and asynchronous programming in Python and provide an example of how you would use async/await in a FastAPI application.",
+    "How would you optimize a slow SQL query, and what are some common techniques for improving query performance?",
+    "Describe a scenario where you would use Docker to containerize a Python application, and walk me through the steps you would take to create a Docker image.",
+    "What is your experience with FastAPI, and how does it compare to other Python web frameworks like Flask?",
+    "How do you handle errors and exceptions in a Python backend service, and what are some best practices for logging and monitoring?",
+    "Can you explain the concept of dependency injection in Python, and how you would implement it in a FastAPI application?",
+    "How do you approach testing a Python backend service, and what are some tools and frameworks you would use for unit testing and integration testing?",
+    "Describe a situation where you had to collaborate with a frontend team to integrate an API, and how you handled any challenges or conflicts that arose.",
+    "What are some security considerations when building a Python backend service, and how would you protect against common web vulnerabilities like SQL injection and cross-site scripting?",
+    "Can you walk me through your experience with CI/CD pipelines, and how you would set up a pipeline to automate testing, building, and deployment of a Python application using Docker?"
+]
+Parsed JSON Successfully: ['Explain the difference between synchronous and asynchronous programming in Python and provide an example of how you would use async/await in a FastAPI application.', 'How would you optimize a slow SQL query, and what are some common techniques for improving query performance?']...
+
+--- NEW REQUEST ---
+Role: Python Backend Developer
+Raw LLM Response: [
+    "Explain the difference between synchronous and asynchronous programming in Python and provide an example of how you would use async/await in a FastAPI application.",
+    "Write a Python function to connect to a SQL database and perform a simple query using parameterized queries to prevent SQL injection.",
+    "How would you optimize a slow SQL query, and what are some common techniques for improving query performance?",
+    "Describe the concept of containerization and how Docker can be used to deploy a Python application.",
+    "What is your experience with CI/CD pipelines, and how would you implement a pipeline for a Python application using Docker?",
+    "Explain the concept of dependency injection in FastAPI and provide an example of how you would use it in a real-world application.",
+    "Write a Python class to model a simple database table using SQLAlchemy, including relationships between tables.",
+    "How would you handle errors and exceptions in a FastAPI application, and what are some best practices for logging and error handling?",
+    "Explain the difference between monolithic architecture and microservices architecture, and how would you design a simple microservices system using FastAPI and Docker.",
+    "Describe how you would implement authentication and authorization in a FastAPI application, including the use of JWT tokens or other authentication mechanisms."
+]
+Parsed JSON Successfully: ['Explain the difference between synchronous and asynchronous programming in Python and provide an example of how you would use async/await in a FastAPI application.', 'Write a Python function to connect to a SQL database and perform a simple query using parameterized queries to prevent SQL injection.']...

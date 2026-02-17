@@ -1,0 +1,14 @@
+{
+  "interviews": [
+    {
+      "interview_id": "INT001",
+      "student_id": "STU001",
+      "job_id": "JOB001",
+      "questions": [],
+      "student_answers": [],
+      "expected_answers": [],
+      "score": 0,
+      "status": "Not Attempted"
+    }
+  ]
+}

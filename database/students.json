@@ -1,0 +1,144 @@
+{
+    "students": [
+        {
+            "student_id": "STU001",
+            "name": "Sahil Patel",
+            "education": {
+                "qualification": "B.Tech"
+            },
+            "skills": [
+                "Python",
+                "Django",
+                "SQL"
+            ],
+            "experience_years": 2,
+            "preferred_location": "Pune",
+            "expected_salary": 700000,
+            "resume_text": "Python developer with 2 years of experience in Django and SQL. Looking for backend roles."
+        },
+        {
+            "student_id": "STU002",
+            "name": "sahil",
+            "education": {
+                "qualification": "computer application"
+            },
+            "skills": [
+                "python",
+                "ai ml",
+                "pandas",
+                "numpy"
+            ],
+            "experience_years": 1,
+            "preferred_location": "pune",
+            "expected_salary": 0,
+            "resume_text": "python deveoloper"
+        },
+        {
+            "student_id": "STU003",
+            "name": "sahil sandeep pate",
+            "education": {
+                "qualification": "Computer Application"
+            },
+            "skills": [
+                "django",
+                "flask",
+                "streamlit",
+                "python",
+                "html",
+                "css",
+                "javascript",
+                "react"
+            ],
+            "experience_years": 1,
+            "preferred_location": "pune",
+            "expected_salary": 30000,
+            "resume_text": "python developer with  experience 0 to 1 yrs"
+        },
+        {
+            "student_id": "STU004",
+            "name": "sahil sandeep  pate ",
+            "education": {
+                "qualification": "computer application"
+            },
+            "skills": [
+                "python",
+                "html",
+                "css",
+                "javascirpt",
+                "react"
+            ],
+            "experience_years": 0,
+            "preferred_location": "pune",
+            "expected_salary": 500000,
+            "resume_text": "python developer"
+        },
+        {
+            "student_id": "STU005",
+            "name": "shreya deshmukh",
+            "education": {
+                "qualification": "undergraduate"
+            },
+            "skills": [
+                "python",
+                "mysql",
+                "c",
+                "java"
+            ],
+            "experience_years": 1,
+            "preferred_location": "aurangabad",
+            "expected_salary": 20000000,
+            "resume_text": "advanced data analyst"
+        },
+        {
+            "student_id": "STU006",
+            "name": "shreya deshmukh",
+            "education": {
+                "qualification": ""
+            },
+            "skills": [
+                "python",
+                "sql",
+                "fastapi",
+                "restapi",
+                "ml",
+                "dl",
+                "gen ai",
+                "agentic ai"
+            ],
+            "experience_years": 1,
+            "preferred_location": "",
+            "expected_salary": 40000,
+            "resume_text": "python developer"
+        },
+        {
+            "student_id": "STU007",
+            "name": "shreya",
+            "education": {
+                "qualification": "undergraduate"
+            },
+            "skills": [
+                "python"
+            ],
+            "experience_years": 0,
+            "preferred_location": "",
+            "expected_salary": 0,
+            "resume_text": "200000000"
+        },
+        {
+            "student_id": "STU012",
+            "name": "Test User",
+            "education": {
+                "qualification": "B.Tech"
+            },
+            "skills": [
+                "ReactJS",
+                "NodeJS",
+                "MongoDB"
+            ],
+            "experience_years": 3,
+            "preferred_location": "Pune",
+            "expected_salary": 800000,
+            "resume_text": "Experienced ReactJS and NodeJS developer."
+        }
+    ]
+}
