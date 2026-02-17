@@ -1,0 +1,23 @@
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# Frontend
+streamlit
+requests
+
+# AI / LLM (Groq)
+groq
+
+# Embeddings & Semantic Matching
+sentence-transformers
+scikit-learn
+numpy
+torch
+
+# Utilities
+python-dotenv
+tqdm
+pymongo
